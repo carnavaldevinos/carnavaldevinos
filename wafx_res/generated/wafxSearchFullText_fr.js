@@ -2,7 +2,7 @@
 "map_targets":[
  {  "title":"Carnaval de Vinos" , "display_url":"index.html" , "url":"index.html" } 
 ],
-"map_words":["","56935129305","56978765019","750","a","avisos","bienvenidos","cabernet","carnaval","carnavaldevinos","categoria","cc","central","cerezas","color","con","consumo","contactenos","contenido","cuerpo","de","del","deleitar","derechos","descripcion","dulces","en","estructura","final","frutillas","frutoso","grosellas","haga","inicio","intenso","intercaladas","legales","los","mail","medio","muestra","nariz","notas","nuestros","origen","page","paladar","paso","pedidos","pero","placenteras","politica","por","privacidad","reservados","rubi","sauvignon","se","siente","sol","solida","souvignon","suavemente","sugerencias","sus","tabaco","taninos","todos","tonos","un","una","valle","variedad","varietal","ventas","vino","vinos","violeta","y"]
+"map_words":["","56935129305","56978765019","750","a","avisos","bienvenidos","cabernet","carnaval","carnavaldevinosventas","categoria","cc","central","cerezas","color","com","con","consumo","contactenos","contenido","cuerpo","de","del","deleitar","derechos","descripcion","dulces","en","estructura","final","frutillas","frutoso","gmail","grosellas","haga","inicio","intenso","intercaladas","legales","los","mail","medio","muestra","nariz","notas","nuestros","origen","paladar","paso","pedidos","pero","placenteras","politica","por","privacidad","reservados","rubi","sauvignon","se","siente","sol","solida","souvignon","suavemente","sugerencias","sus","tabaco","taninos","todos","tonos","un","una","valle","variedad","varietal","vino","vinos","violeta","y"]
 ,
 "index_words":[ [0 ] 
 , [0 ] 
